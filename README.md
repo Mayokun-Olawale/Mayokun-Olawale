@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Mayokun-Olawale
-- 👀 I’m interested in learning more about the different areas in computer science
-- 🌱 I’m currently learning software development
+### Hello, my name is Mayokun!
+👩🏿‍💻 I am a Sophomore Computer Science Major
+🤖 I am particularly interested in Software Development and Machince Learning
+💻 My most recent projects are a marketplace app for college students
+👩🏾‍🏫 I am currently interesting in learning IOS development, looking forward to building some ideas!
+🧁🧶 Outside of coding, I really like baking and crocheting.
 
 
 <!---
